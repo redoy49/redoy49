@@ -47,19 +47,12 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
 
 ### 📌 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/redoy49/github-readme-stats" style="margin-right:20px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=github-readme-stats&theme=vue&hide_border=true" alt="github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue" />
 </a>
-<a href="https://github.com/redoy49/redoy49.github.io" style="margin-right:20px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=redoy49.github.io&theme=vue&hide_border=true" alt="redoy49.github.io" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=vue" />
 </a>
-<a href="https://github.com/redoy49/mern-blog-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=mern-blog-app&theme=vue&hide_border=true" alt="mern-blog-app" />
-</a>
-
-</div>
 
 ---
 
