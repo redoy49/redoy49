@@ -1,9 +1,9 @@
 <img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate MERN Stack Developer from [Your Country/City]</h3>
+<h1 align="center">Hi 👋, I'm Ridoy</h1>
+<h3 align="center">A passionate MERN Stack Developer from [Narsingdi/Dhaka/Bangladesh]</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=redoy49&label=Profile%20views&color=0e75b6&style=flat" alt="redoy49" />
 </p>
 
 ---
@@ -40,11 +40,22 @@
 
 ### 📌 Pinned Projects
 
-Here are some of my favorite projects:
+<a href="https://github.com/redoy49/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=github-readme-stats&theme=vue-dark" />
+</a>
+<a href="https://github.com/redoy49/redoy49.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=redoy49.github.io&theme=buefy" />
+</a>
 
-- 🔗 [Project Name](https://github.com/your-username/project-name) — MERN Stack CRUD app with Auth
-- 🔗 [Another Project](https://github.com/your-username/project-name) — Real-time chat app using Socket.io
-- 🔗 [Portfolio Site](https://github.com/your-username/portfolio) — My personal site built with React
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 
 ---
 
@@ -54,7 +65,7 @@ Here are some of my favorite projects:
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mdredoyhasan49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
@@ -64,4 +75,4 @@ Here are some of my favorite projects:
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Mohin Ridoy](https://github.com/redoy49)
