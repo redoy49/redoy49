@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/jkpThZZ8/mohin-ridoy-s-banner.png" alt="GitHub README header image" />
+<img src="https://i.ibb.co/rfLsvWX7/mohin-ridoy-s-banner.png" alt="GitHub README header image" />
 
 <h1 align="center">Hi 👋, I'm Mohin Ridoy</h1>
 <h3 align="center">Full-stack MERN Developer from Narsingdi, Dhaka, Bangladesh</h3>
