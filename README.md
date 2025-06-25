@@ -40,24 +40,26 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redoy49&show_icons=true&include_all_commits=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoy49&layout=compact&theme=react&hide_border=true" width="48%"/>
-</p>
+| <a href="https://github.com/redoy49/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=redoy49&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" /></a> | <a href="https://github.com/redoy49/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoy49&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
 ### 📌 Pinned Projects
 
-<a href="https://github.com/redoy49/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=github-readme-stats&theme=react&hide_border=true" />
+<div align="center">
+
+<a href="https://github.com/redoy49/github-readme-stats" style="margin-right:20px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=github-readme-stats&theme=vue&hide_border=true" alt="github-readme-stats" />
 </a>
-<a href="https://github.com/redoy49/redoy49.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=redoy49.github.io&theme=react&hide_border=true" />
+<a href="https://github.com/redoy49/redoy49.github.io" style="margin-right:20px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=redoy49.github.io&theme=vue&hide_border=true" alt="redoy49.github.io" />
 </a>
 <a href="https://github.com/redoy49/mern-blog-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=mern-blog-app&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=redoy49&repo=mern-blog-app&theme=vue&hide_border=true" alt="mern-blog-app" />
 </a>
+
+</div>
 
 ---
 
