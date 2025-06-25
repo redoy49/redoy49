@@ -69,6 +69,21 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
   <a href="https://www.facebook.com/redoy49/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/mdredoyhasan49" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@mdredoyhasan49" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/mdredoyhasan49" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~mdredoyhasan49" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.freelancer.com/u/mdredoyhasan49" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  </a>
 </p>
 
 ---
