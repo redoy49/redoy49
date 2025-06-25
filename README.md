@@ -1,3 +1,4 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A passionate MERN Stack Developer from [Your Country/City]</h3>
 
