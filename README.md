@@ -57,13 +57,13 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mdredoyhasan49" target="_blank">
+  <a href="https://www.linkedin.com/in/redoy49/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mdredoyhasan49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/mdredoyhasan49" target="_blank">
+  <a href="https://x.com/redoy49" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/redoy49/" target="_blank">
@@ -72,17 +72,8 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
   <a href="https://www.instagram.com/mdredoyhasan49" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@mdredoyhasan49" target="_blank">
+  <a href="https://www.youtube.com/@redoy49" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.fiverr.com/mdredoyhasan49" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~mdredoyhasan49" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://www.freelancer.com/u/mdredoyhasan49" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
   </a>
 </p>
 
