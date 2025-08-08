@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a full-stack MERN developer with a BBA background, combining business knowledge with robust development skills. I build responsive, secure, and high-performing web applications. My current focus is clean architecture, UI/UX, and authentication systems.
+I'm a MERN Stack developer with a BBA background, combining business knowledge with robust development skills. I build responsive, secure, and high-performing web applications. My current focus is clean architecture, UI/UX, and authentication systems.
 
 #### 🔭 Current Focus
 - 🛠️ Developing full-stack apps using **React**, **Node.js**, **MongoDB**, and **Express**
@@ -68,9 +68,6 @@ I'm a full-stack MERN developer with a BBA background, combining business knowle
   </a>
   <a href="https://www.facebook.com/redoy49/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mdredoyhasan49" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@redoy49" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
