@@ -44,15 +44,6 @@ I'm a MERN Stack developer with a BBA background, combining business knowledge w
 | ------------- | ------------- |
 
 ---
-## 🍃 Recent Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 ### 📫 Connect With Me
 
